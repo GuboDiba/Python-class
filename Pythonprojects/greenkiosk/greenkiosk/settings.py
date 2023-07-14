@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     "orders",
     "refunds",
     "category",
+    "shipment",
     
 ]
 
